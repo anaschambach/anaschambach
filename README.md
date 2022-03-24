@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anaschambach
+- 👋 Hola, soy @anaschambach
 - 👀 I’m interested in bringing statistics to the forefront of marketing
 - 🌱 I’m currently building on my SQL, Python, and R skills
 - 📫 How to reach me: LinkedIn msg
