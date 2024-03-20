@@ -1,6 +1,6 @@
 - 👋 Hola, I'm Ana
-- 👀 I’m interested in bringing statistics to the forefront of marketing
-- 🌱 I’m currently building on my SQL, Python, and R skills
+- 👀 I’m interested in bringing data literacy to all teams
+- 🌱 I’m currently building on my SQL and Python skills
 - 📫 How to reach me: LinkedIn msg
 
 <!---
